@@ -1,4 +1,4 @@
-package pl.pl.petlafor;
+package pl.petlafor;
 
 public class MainFor {
     public static void main(String[] args) {
