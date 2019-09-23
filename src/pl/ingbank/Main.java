@@ -17,6 +17,7 @@ public class Main {
             System.out.println("2fałsz");
         }
 
+
         if(3==3 && 3==4){
             System.out.println("3prawda");
         } else {
