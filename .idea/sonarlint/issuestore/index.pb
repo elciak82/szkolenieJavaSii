@@ -1,0 +1,33 @@
+
+H
+src/pl/ingbank/Main.java,6\1\617018b8869ebf4cba8a32e5b698bfc8050b12d2
+P
+ src/pl/petlawhile/MainWhile.java,6\6\660509d24669de2c2af808f749b0c77c8e2d8086
+Y
+)src/pl/zadaniepetla/MainZadaniePetla.java,3\e\3e5e495bbcb2af73611c337ab540de9e9d3f3773
+U
+%src/pl/petlawhile/MainWhileBreak.java,6\5\6534d3429f4aadd62fb35a68460b90b1da812bab
+L
+src/pl/petlafor/MainFor.java,a\6\a6134a022936caf8d17cd34d2413547d18cc3dbe
+Z
+*src/pl/zadaniepetla/ZgadywanieZadanie.java,b\5\b53a5be8d6efb07a70db826790065d241c1c40d8
+D
+szkolenieJavaSii.iml,5\d\5d2b555d27da5fcf3ad6927b2ec01bb36100163e
+Y
+)src/pl/typyliczbowe/MainTypyLiczbowe.java,b\3\b38e08655aad84ed1d6bb674c8f24065be95cc44
+O
+src/pl/tablice/MainTablice.java,b\2\b22a34dc3152d47c14f5f19ca7b4cdfd0606aa30
+W
+'src/pl/tablice/SimpleGeneratorMain.java,2\2\22bf3e8c7a980579be7256154cf907472c3e3d20
+Q
+!src/pl/typyliczbowe/Zadanie7.java,9\e\9ebf321f40eab9156777d1da93a3eb231b80d684
+S
+#src/pl/zadaniepetla/Zadania8_9.java,1\6\161f80f2b3f3964e713e9e291e757845df883092
+R
+"src/pl/zadaniepetla/Zadanie10.java,a\6\a66711a7b1385e6c7f3a79db6467ee6afb3ecfa1
+R
+"src/pl/zadaniepetla/Zadanie11.java,7\e\7ed88f42d903602792f169649308abc4b466cdb3
+R
+"src/pl/zadaniepetla/Zadanie12.java,2\0\209b96168755e8e682f409ebdab3d11debf7cf21
+S
+#src/pl/tablice/Zadania13_14_15.java,1\7\17b08f973d63c20851ab9fa223460aed6d6a81b4
