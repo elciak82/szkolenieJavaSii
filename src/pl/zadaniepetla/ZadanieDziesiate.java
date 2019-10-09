@@ -7,20 +7,17 @@ public class ZadanieDziesiate {
     private static String greater = "Podana liczba jest większa od: " + greatNumber;
     private static String inside = "Podana liczba jest większa od: " + smallNumber + ", ale mniejsza od: " + greatNumber;
     private static String ouside = "Podana liczba nie mieści się w przedziałach";
-    private static String wrongCondition = "Nieprawidłowy warunek!";
 
     public static void main(String[] args) {
         System.out.println(checkNumber(10));
     }
 
-    private static String checkNumber (int checkedNumber) {
-        if (smallNumber < greatNumber) {
-            if (checkedNumber > greatNumber) {
-                return greater;
-            } else if (smallNumber < checkedNumber && checkedNumber < greatNumber) {
-                return inside;
-            } else return ouside;
-        }else return (wrongCondition);
+    private static String checkNumber(int checkedNumber) {
+        if (checkedNumber > greatNumber) {
+            return greater;
+        } else if (smallNumber < checkedNumber && checkedNumber < greatNumber) {
+            return inside;
+        } else return ouside;
     }
 }
 

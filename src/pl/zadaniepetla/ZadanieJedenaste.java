@@ -5,10 +5,10 @@ public class ZadanieJedenaste {
         System.out.println(sumOfNumbers(99));
     }
 
-    private static int sumOfNumbers (int number) {
+    private static int sumOfNumbers(int number) {
         int sum = 0;
-        for (int i = 0; i< number; i++) {
-            sum = sum+ i;
+        for (int i = 0; i < number; i++) {
+            sum = sum + i;
         }
         return sum;
     }
