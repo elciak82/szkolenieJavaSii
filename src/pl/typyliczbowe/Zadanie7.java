@@ -1,6 +1,6 @@
 package pl.typyliczbowe;
 
-public class ZadanieSiodme {
+public class Zadanie7 {
 
     public static void main(String[] args) {
         short first = 2;

@@ -2,7 +2,7 @@ package pl.zadaniepetla;
 
 import java.util.Scanner;
 
-public class ZadanieDwunaste {
+public class Zadanie12 {
 
     private static int first = 0;
     private static int last = 100;

@@ -1,6 +1,6 @@
 package pl.zadaniepetla;
 
-public class ZadanieDziesiate {
+public class Zadanie10 {
 
     private static int smallNumber = 0;
     private static int greatNumber = 4;

@@ -2,7 +2,7 @@ package pl.tablice;
 
 import java.util.Random;
 
-public class ZadanieTrzynasteCzternaste {
+public class Zadania13_14_15 {
 
     public static void main(String[] args) {
         int[] firstTable = new int[5];
@@ -25,6 +25,12 @@ public class ZadanieTrzynasteCzternaste {
         }
         for (int element : secondTable)
             System.out.println(element);
+
+        int sum = 0;
+        for (int i = 0; i < secondTable.length-1; i++) {
+            sum = secondTable[i] + sum;
+        }
+        System.out.println("Srednia arytmetyczna wynosi: " + sum / secondTable.length);
     }
 }
 
@@ -33,3 +39,6 @@ public class ZadanieTrzynasteCzternaste {
 
 //14.	Tablicę z poprzedniego zadania program powinien odwrócić.
 // To znaczy, ta liczba, która posiadała indeks 0 teraz będzie ostatnia itd.
+
+//15.	Tablica z poprzedniego zadania posłuży do policzenia średniej arytmetycznej
+// ze wszystkich liczb w niej zawartych.

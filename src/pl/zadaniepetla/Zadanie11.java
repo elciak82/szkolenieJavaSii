@@ -1,6 +1,6 @@
 package pl.zadaniepetla;
 
-public class ZadanieJedenaste {
+public class Zadanie11 {
     public static void main(String[] args) {
         System.out.println(sumOfNumbers(99));
     }

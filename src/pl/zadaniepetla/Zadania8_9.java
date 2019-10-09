@@ -1,6 +1,6 @@
 package pl.zadaniepetla;
 
-public class ZadanieOsmeIDziewiate {
+public class Zadania8_9 {
 
     private static String pass = "OK";
     private static String fail = "warunek niespełniony";
