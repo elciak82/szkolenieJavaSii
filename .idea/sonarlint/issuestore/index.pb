@@ -31,3 +31,5 @@ R
 "src/pl/zadaniepetla/Zadanie12.java,2\0\209b96168755e8e682f409ebdab3d11debf7cf21
 S
 #src/pl/tablice/Zadania13_14_15.java,1\7\17b08f973d63c20851ab9fa223460aed6d6a81b4
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
