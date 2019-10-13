@@ -1,8 +1,7 @@
-package pl.tablice;
+package pl.ingbank;
 
-import java.util.Date;
 
-public class Hello_World {
+public class helloWorld {
     public static void main(String[] args) {
         String imie = "Bartek";
         String nazwisko = "Walczak";
@@ -10,9 +9,9 @@ public class Hello_World {
         String urodziny = "18 sierpnia";
 
         System.out.println(imie + " " + nazwisko + " ma " + wiek + " lat. Urodziny obchodzi " + urodziny + ".");
-        double a = 10 / 5 * 3;
-        double b = 10;
-        double c = 19;
+        int a = 10 / 5 * 3;
+        double b = 10.6;
+        double c = 19.5;
 
         for (int i = 0; i < 7; i++) {
             System.out.println(a + b + c);
