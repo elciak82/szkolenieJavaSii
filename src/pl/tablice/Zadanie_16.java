@@ -7,13 +7,13 @@ public class Zadanie_16 {
         Random random = new Random();
 
         int[] array = new int[20];
+        int uniqueValues = 0;
 
-        for (int i = 0; i < array.length; i++) {
-            int i1 = random.nextInt(30);
-            if (contains(array, i1)) {
-            } else {
-                array[i] = i1;
-//                System.out.println(i1);
+        while(uniqueValues < array.length) {
+            int element = random.nextInt(30);
+            if (!contains(array, element)) {
+                array[uniqueValues] = element;
+                uniqueValues++;
             }
         }
         for (int element : array) {
@@ -21,11 +21,11 @@ public class Zadanie_16 {
         }
     }
 
-    private static boolean contains(final int[] array, final int v) {
+    private static boolean contains(int[] array, int number) {
         boolean result = false;
 
-        for (int i : array) {
-            if (i == v) {
+        for (int element : array) {
+            if (element == number) {
                 result = true;
                 break;
             }
