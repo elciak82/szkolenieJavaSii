@@ -27,7 +27,6 @@ public class SimpleGeneratorMain {
                 password[i] = spChar[random.nextInt(spChar.length)];
             }
         }
-
         System.out.println(password); //char jest ok
     }
 }
