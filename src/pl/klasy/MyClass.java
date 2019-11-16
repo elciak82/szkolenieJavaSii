@@ -4,7 +4,11 @@ class MyClass {
 
     String field;
 
-    //konstruktory to metody, które nie zwracają wartości
+    //konstruktory to metody, które nie zwracają wartości, tylko tworza obiekt
+    //obiekt można powołac do życia tylko poprzez użycie konstruktora
+    //konstruktor jest wywoływany podczas tworzenia obiektu
+
+    //Każda klasa dziedziczy po klasie Object - kożeń drzewa class
     MyClass() {
         System.out.println("Siema z konstruktora klasy MyCalss");
         this.field = "Jakaś domyslna wartość";

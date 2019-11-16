@@ -22,4 +22,7 @@ public class MainClass {
 
     //klasa jest pewnym schematem tworzenia, coś się zmienia w klasie to zmienia sie w całym porjekcie
     //singleton - wzorzec projektowy
+//    akcesory - public -
+//               protected -
+//               private
 }
