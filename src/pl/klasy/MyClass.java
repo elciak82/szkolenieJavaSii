@@ -8,7 +8,7 @@ class MyClass {
     //obiekt można powołac do życia tylko poprzez użycie konstruktora
     //konstruktor jest wywoływany podczas tworzenia obiektu
 
-    //Każda klasa dziedziczy po klasie Object - kożeń drzewa class
+    //Każda klasa dziedziczy po klasie Object - korzeń drzewa class
     MyClass() {
         System.out.println("Siema z konstruktora klasy MyCalss");
         this.field = "Jakaś domyslna wartość";

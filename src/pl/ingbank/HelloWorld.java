@@ -1,7 +1,7 @@
 package pl.ingbank;
 
 
-public class helloWorld {
+public class HelloWorld {
     public static void main(String[] args) {
         String imie = "Bartek";
         String nazwisko = "Walczak";

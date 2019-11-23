@@ -1,7 +1,7 @@
 
 Tsquid:S1481"1Remove this unused "doubleLiczba" local variable.(Ê©ÅÚüÿÿÿÿ8 ¤—åÚ-
-Msquid:S1481"/Remove this unused "longLiczba" local variable.(æ¼ôò8 ¤—åÚ-
-\squid:S1854">Remove this useless assignment to local variable "longLiczba".(æ¼ôò8 ¤—åÚ-
 ]squid:S1854"?Remove this useless assignment to local variable "floatLiczba".(î­ ú8 ¤—åÚ-
 csquid:S1854"@Remove this useless assignment to local variable "doubleLiczba".(Ê©ÅÚüÿÿÿÿ8 ¤—åÚ-
 Nsquid:S1481"0Remove this unused "floatLiczba" local variable.(î­ ú8 ¤—åÚ-
+Msquid:S1481"/Remove this unused "longLiczba" local variable.(æ¼ôò8 ¤—åÚ-
+\squid:S1854">Remove this useless assignment to local variable "longLiczba".(æ¼ôò8 ¤—åÚ-

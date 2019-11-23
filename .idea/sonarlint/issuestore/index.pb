@@ -33,3 +33,49 @@ S
 #src/pl/tablice/Zadania13_14_15.java,1\7\17b08f973d63c20851ab9fa223460aed6d6a81b4
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+N
+src/pl/ingbank/helloWorld.java,b\1\b15d8a99bcbe49110ab500e10b338b1c7a857f2a
+P
+ src/pl/tablice/Zadanie16_17.java,6\e\6e37b09029a7f48aaa0118de711dd297f12abd46
+P
+ src/pl/zadania/Zadanie18_19.java,8\4\848d4c3aaf23516d3626b99a6f85b17b9c0080d6
+O
+src/pl/zadania/Zadanie1210.java,0\6\06a4e4c10a7f1b4ae851477739c87bacd36b9090
+O
+src/pl/zadania/Zadanie1110.java,2\c\2cfef63d59dbfd1fccbcc42c18749e24da6f6b2d
+[
++src/pl/tablice/SimpleGenerator_zadanie.java,9\a\9a71bffe3dfef7ed66527aec96d6352077087123
+M
+src/pl/klasy2/MainClass2.java,e\2\e29ca9221730fd2ad5288dae5a275818c634b00d
+K
+src/pl/klasy2/MyClass2.java,f\d\fd252a9a5150e7ac0bd7844eec4fbf78fe1b5544
+K
+src/pl/klasy/MainClass.java,5\d\5d32aca99a12c6f6c3c9d80cae5c0f87662684bc
+M
+src/pl/klasy/FirstPerson.java,b\f\bf167275b3187e6849ae2bfccc1b2a9148494cf0
+J
+src/pl/klasy2/Student.java,6\9\69396aa4a4a1bacb9d907954f3bee46f26b8eb11
+I
+src/pl/klasy/MyClass.java,8\0\802e953eb79f48fc91e89fe6803c0f90974a81e4
+L
+src/pl/klasy/OtherClass.java,8\c\8c870eb7253ab800df6c542bb13fae6fbd56724f
+P
+ src/pl/klasyZadania/MyClass.java,3\0\30a896062697eb2d8e17f8cac6e09435b66139b2
+Q
+!src/pl/klasyZadania/NewClass.java,9\f\9f3537bb13c1f1a5cf39fe02d6e5900bc5840cdc
+T
+$src/pl/klasyZadania/StringClass.java,b\7\b716667f097fdf079fe14ac832d60b8b786a5880
+R
+"src/pl/klasyZadania/MainClass.java,e\6\e6e5b907502ac44121e4a92498c5ca1b20f368f5
+H
+src/pl/enumy/MyEnum.java,c\6\c6b211eca610a7bfbab86a1a7eed52edd062c8a1
+O
+src/pl/enumy/EnumMainClass.java,e\0\e0a0bfd879346072e24375a3f6a520ccb5c6b3ba
+F
+src/pl/karty/Suit.java,2\f\2f46165c41f5694644965f23ffea562ded50ee29
+G
+src/pl/karty/Color.java,d\1\d19f154571ba125160eb48a546f54f5146c514e6
+F
+src/pl/karty/Card.java,7\0\70dcd8f5c518a5a1258a988801f278104d75abce
+P
+ src/pl/karty/MainKartyDoGry.java,0\9\097a79545760d3c487e829a909bc1794c295e717
