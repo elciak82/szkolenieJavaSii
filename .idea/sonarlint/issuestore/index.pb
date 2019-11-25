@@ -79,3 +79,5 @@ F
 src/pl/karty/Card.java,7\0\70dcd8f5c518a5a1258a988801f278104d75abce
 P
  src/pl/karty/MainKartyDoGry.java,0\9\097a79545760d3c487e829a909bc1794c295e717
+N
+src/pl/ingbank/HelloWorld.java,8\3\832d48f8d2c88ad9fa330e9a0af018775f9a1de2

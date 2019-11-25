@@ -4,7 +4,7 @@ public class Card {
     private Color color;
     private Suit suit;
 
-    public Card (Suit suit, Color color) {
+    Card(Suit suit, Color color) {
         this.suit = suit;
         this.color = color;
     }
