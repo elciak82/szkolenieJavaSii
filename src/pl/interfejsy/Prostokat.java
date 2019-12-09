@@ -1,6 +1,7 @@
-package pl.polimorfizmZadania;
+package pl.interfejsy;
 
-public class Prostokat implements FiguraGeometryczna {
+public class Prostokat implements Poleiczalna, Obwodoliczalna, Przechowywalna { //w porstokacie mozna policzyc pole powierzchni i obwód
+    //dodanie intefjejsu wymusza na nas zmiane w api, czyli dodanie kolejneh metody
 
     private final int bokA;
     private final int bokB;
@@ -9,11 +10,9 @@ public class Prostokat implements FiguraGeometryczna {
         this.bokA = bokA;
         this.bokB = bokB;
     }
-
-
     @Override
     public int obw() {
-        return 2*(bokA + bokB);
+        return 2*(bokA * bokB);
     }
 
     @Override

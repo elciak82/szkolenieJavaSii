@@ -81,3 +81,37 @@ P
  src/pl/karty/MainKartyDoGry.java,0\9\097a79545760d3c487e829a909bc1794c295e717
 N
 src/pl/ingbank/HelloWorld.java,8\3\832d48f8d2c88ad9fa330e9a0af018775f9a1de2
+N
+src/pl/polimorfizm/Piesel.java,b\a\ba70e29446eda88c0143c85e9bf47804beee97ed
+L
+src/pl/polimorfizm/Main.java,5\a\5abf73204051dff972b1c549d5c72b772bf98ff8
+P
+ src/pl/polimorfizm/Czlowiek.java,4\e\4e03ec626d049a8e3fc4fff4af07bad23f5a06ae
+L
+src/pl/polimorfizm/Ssak.java,2\f\2fbfcdf700a9073083c75b41de8ee36505011f28
+X
+(src/pl/polimorfizmZadania/Czworobok.java,0\c\0ce945316c4053fbab1132a4ccf0b5f887a1d29e
+X
+(src/pl/polimorfizmZadania/Prostokat.java,d\a\daec076a9af93f8382ad871eb993659181c5bdcb
+V
+&src/pl/polimorfizmZadania/Kwadrat.java,f\4\f4e227d138208e07bad5ba44eba054bb564cdd6c
+a
+1src/pl/polimorfizmZadania/FiguraGeometryczna.java,7\e\7e40d9cace6f36a495fc5c963a9858c85124d87f
+V
+&src/pl/polimorfizmZadania/Trojkat.java,2\0\206b52815f2112f749f1755c44de65daefd78e37
+R
+"src/pl/interfejsy/Poleiczalna.java,e\1\e1695a9e733c833478c13b15521fe2a4269cc359
+^
+.src/pl/polimorfizmZadania/PolimorfizmMain.java,f\e\fe88665efe82442cfd7acbd406b190d34e01a7a5
+U
+%src/pl/interfejsy/Obwodoliczalna.java,5\7\57340b12c0e70b5161d5b227f6c8ac9bb4b3e76b
+U
+%src/pl/interfejsy/Przechowywalna.java,4\5\45310cf21028395e8627bbc8bab2f1fef7d259e5
+N
+src/pl/interfejsy/Trojkat.java,2\7\2763d4f731d02585b6dff0c61e0526179038d2e5
+P
+ src/pl/interfejsy/Prostokat.java,d\f\df154945be62ce3437dfab955c78313f2a289695
+K
+src/pl/interfejsy/Kolo.java,d\7\d70e50a305980e100c95d8a00694beb446d36308
+U
+%src/pl/interfejsy/InterfejsyMain.java,4\8\48331ec8491de44435717184f30ef32cf3c0435e

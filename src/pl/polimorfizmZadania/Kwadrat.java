@@ -1,6 +1,6 @@
 package pl.polimorfizmZadania;
 
-public class Kwadrat extends Figura {
+public class Kwadrat extends Czworobok {
      int bokA;
      int bokB;
 
